@@ -30,7 +30,7 @@ devtools::load_all(".")
 Or install directly from GitHub (replace `USERNAME`/`REPO` if published):
 
 ```r
-remotes::install_github("USERNAME/microforge")
+remotes::install_github("jerryyhe/microforge")
 ```
 
 ## Quick start
